@@ -1,0 +1,7 @@
+.env
+not_needed
+.idea
+__pycache__
+temp
+items.yaml
+venv

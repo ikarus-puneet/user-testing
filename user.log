@@ -1,0 +1,74 @@
+[2023-02-15 11:15:46,476] ERROR:log.logger User creation failed as the email: akhil.sharma@ikarus3d.com was taken  
+[2023-02-15 11:31:12,860] INFO:log.logger Created user with email: test1@gmail.com 
+[2023-02-15 11:32:15,025] ERROR:log.logger User creation failed as the email: test1@gmail.com was taken  
+[2023-02-15 11:32:35,409] INFO:log.logger Created user with email: test1@gmail.com 
+[2023-02-15 11:33:22,001] INFO:log.logger Created user with email: test1@gmail.com 
+[2023-02-15 11:33:48,479] ERROR:log.logger User creation failed due to invalid input data 
+[2023-02-15 11:34:58,383] INFO:log.logger Created user with email: test3@gmail.com 
+[2023-02-15 11:40:20,030] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-15 11:48:45,553] ERROR:log.logger User deletion failed as user with id: 63ec774c0977eeabf5e9b331 does not exist.
+[2023-02-15 11:50:53,962] ERROR:log.logger User with id: 63ec774c0977eeabf5e9b331 not found.
+[2023-02-15 11:53:30,464] ERROR:log.logger Adding username failed due to invalid input data
+[2023-02-15 11:53:42,164] ERROR:log.logger User with id: 63ec774c0977eeabf5e9b331 not found.
+[2023-02-15 11:57:06,570] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-15 12:29:05,995] ERROR:log.logger User creation failed as the email: akhil.sharma@ikarus3d.com was taken.
+[2023-02-15 12:30:07,859] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-15 12:31:53,514] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-15 12:34:04,267] ERROR:log.logger User with id: 63ec8361774fe8b265f57eb4 not found.
+[2023-02-15 12:34:04,269] ERROR:log.logger User with id: 63ec8361774fe8b265f57eb4 not found.
+[2023-02-15 12:34:42,295] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-15 12:39:38,323] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-15 14:44:33,845] ERROR:log.logger User deletion failed as user with id: 63ec8532774fe8b265f57eb6 is not found.
+[2023-02-15 14:44:42,474] ERROR:log.logger User deletion failed as user with id: 63ec840a774fe8b265f57eb5 is not found.
+[2023-02-15 14:45:31,322] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-16 12:27:33,479] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-16 12:31:39,221] ERROR:log.logger User with id: 63edd3ddb0b973616a41973b not found.
+[2023-02-16 12:31:39,225] ERROR:log.logger User with id: 63edd3ddb0b973616a41973b not found.
+[2023-02-16 12:31:43,552] ERROR:log.logger User with id: 63edd3ddb0b973616a41973b not found.
+[2023-02-16 12:31:43,555] ERROR:log.logger User with id: 63edd3ddb0b973616a41973b not found.
+[2023-02-16 12:31:47,434] ERROR:log.logger User with id: 63edd3ddb0b973616a41973b not found.
+[2023-02-16 12:31:47,436] ERROR:log.logger User with id: 63edd3ddb0b973616a41973b not found.
+[2023-02-16 14:57:24,629] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-16 15:42:59,692] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-16 16:07:28,632] ERROR:log.logger User creation failed as the email: akhil.sharma@ikarus3d.com was taken.
+[2023-02-16 16:10:41,579] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-16 16:12:28,015] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-16 16:14:30,967] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-16 16:16:08,680] ERROR:log.logger User creation failed as the email: akhil.sharma@ikarus3d.com was taken.
+[2023-02-16 16:19:57,275] INFO:log.logger Created user with email: test2@gmail.com
+[2023-02-17 12:49:57,323] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 12:50:25,908] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 12:53:37,043] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 12:57:22,593] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 12:58:13,558] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 12:59:09,657] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 13:00:31,254] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 13:01:05,410] ERROR:log.logger User with id: 63eca2b38c66e446790a975f not found.
+[2023-02-17 15:20:24,553] INFO:log.logger Created user with email: hkukreja_be19@thapar.edu
+[2023-02-20 11:16:58,361] ERROR:log.logger User creation failed as the email: akhil.sharma@ikarus3d.com was taken.
+[2023-02-20 17:11:29,351] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-21 10:40:46,134] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-21 12:09:36,883] INFO:log.logger Added username: test1 to user with id: 63f4525611eb129727134a0d
+[2023-02-21 12:10:23,991] INFO:log.logger Added username: testing1 to user with id: 63f4525611eb129727134a0d
+[2023-02-21 12:10:56,889] INFO:log.logger Added username: test1 to user with id: 63f4525611eb129727134a0d
+[2023-02-21 12:16:05,153] INFO:log.logger Created user with email: test2@gmail.com
+[2023-02-21 12:18:19,747] INFO:log.logger Added username: test2 to user with id: 63f468ad65e36fd31724fd43
+[2023-02-21 12:49:19,337] INFO:log.logger Created user with email: test2@gmail.com
+[2023-02-21 12:50:28,371] INFO:log.logger Added username: test2 to user with id: 63f4707765e36fd31724fd44
+[2023-02-21 14:58:54,232] ERROR:log.logger User creation failed as the email: test1@gmail.com was taken.
+[2023-02-21 15:01:23,344] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-21 15:16:36,635] INFO:log.logger Added username: test22 to user with id: 63f4707765e36fd31724fd44
+[2023-02-23 10:57:55,321] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-23 10:58:43,126] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-23 10:58:58,449] INFO:log.logger Added username: ikarus-akhil to user with id: 63f6f98b2fc3573fe0f2c5b2
+[2023-02-23 11:18:28,249] ERROR:log.logger User with id: 63f4525611eb129727134a0d not found.
+[2023-02-23 11:20:19,286] ERROR:log.logger User with id: 63f4525611eb129727134a0d not found.
+[2023-02-23 11:20:19,289] ERROR:log.logger User with id: 63f4525611eb129727134a0d not found.
+[2023-02-23 15:20:57,095] ERROR:log.logger User with id: 63f4525611eb129727134a0d not found.
+[2023-02-23 15:20:57,114] ERROR:log.logger User with id: 63f4525611eb129727134a0d not found.
+[2023-02-23 15:23:15,091] ERROR:log.logger User deletion failed as user with id: 63f4525611eb129727134a0d is not found.
+[2023-02-23 15:26:11,608] INFO:log.logger Created user with email: akhil.sharma@ikarus3d.com
+[2023-02-23 15:26:39,405] INFO:log.logger Added username: ikarus-akhil to user with id: 63f7383bfee37af459213065
+[2023-02-23 15:27:51,056] INFO:log.logger Created user with email: test1@gmail.com
+[2023-02-23 15:28:02,891] INFO:log.logger Added username: test1 to user with id: 63f7389ffee37af459213066
+[2023-02-23 16:26:34,121] INFO:log.logger Created user with email: test2@gmail.com
